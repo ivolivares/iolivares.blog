@@ -1,6 +1,6 @@
 ---
 title: Hello, mi first edit from prose.io
-date: "2018-02-03T00:19:00.00Z"
+date: "2018-02-03T00:19"
 ---
 
 ## A New Post
