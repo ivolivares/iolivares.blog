@@ -1,10 +1,13 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "iolivares-blog",
+  "description": "My pro and personal blog based on gatsby+netlify+prose.io",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": {
+    "name": "Iván Olivares",
+    "email": "hi@iolivares.com"
+  },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://github.com/ivolivares/iolivares.blog/issues"
   },
   "dependencies": {
     "gatsby": "^1.9.158",
@@ -35,7 +38,7 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.10.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://www.iolivares.blog",
   "keywords": [
     "gatsby"
   ],
@@ -43,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/ivolivares/iolivares.blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",

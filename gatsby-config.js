@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
+    title: 'Iván Olivares {dot blog}',
+    author: 'Iván Olivares',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://www.iolivares.blog',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/iolivares-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -41,7 +41,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: 'UA-44199814-2'
       },
     },
     `gatsby-plugin-feed`,
